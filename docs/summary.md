@@ -8,7 +8,7 @@ esse aqui é outro teste bora ver se o arquivo funfa meu amigo
 
 ## pasta mais legal
 
-- [conhecimento](processes/knowledge/overview.md)
+- [conhecimento](processes/knowledge/knowledge/overview.md)
 
 ## pasta mega legal
 
