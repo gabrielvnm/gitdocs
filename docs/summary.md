@@ -1,6 +1,6 @@
 # summary
 
-- [introdução](introduction.md)
+- [introdução](introduction-to-platform.md)
 
 ## pasta legalzona
 
