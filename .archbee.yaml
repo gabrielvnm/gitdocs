@@ -1,1 +1,4 @@
-
+root: ./docs
+structure:
+  readme: introduction-to-platform.md
+  summary: summary.md
