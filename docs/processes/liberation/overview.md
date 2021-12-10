@@ -1,8 +1,4 @@
-title: visao geral  
-
 # Visão Geral
-
-## Apresentação
 
 Liberação (release) é definida como uma mudança significativa na infraestrutura de TI da organização, a qual pode ser a introdução de novos ICs, ou a atualização dos atuais.
 
