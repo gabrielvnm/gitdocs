@@ -1,4 +1,4 @@
 root: ./docs
 structure:
-  readme: introduction-to-platform.md
+  readme: arquivo1.md
   summary: summary.md
